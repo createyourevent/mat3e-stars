@@ -1,0 +1,3 @@
+module.exports = (api) => api.env('test') ? {
+    plugins: ['@babel/plugin-transform-modules-commonjs']
+} : {};

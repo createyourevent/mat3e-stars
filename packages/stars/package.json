@@ -1,0 +1,31 @@
+{
+  "name": "@mat3e-ux/stars",
+  "version": "0.2.5",
+  "description": "Display rating as stars (readonly)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mat3e/ux.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "stars",
+    "webcomponents",
+    "webcomponent",
+    "web-component",
+    "web-components",
+    "component",
+    "star-rating",
+    "rating",
+    "star",
+    "ux"
+  ],
+  "author": "mat3e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mat3e/ux/issues"
+  },
+  "homepage": "https://mat3e.github.io/ux/#stars"
+}
